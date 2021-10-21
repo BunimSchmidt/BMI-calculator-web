@@ -1,6 +1,6 @@
 # BMI-calculator-web
 
-<h3>Program to calculate BMI according to age, height, and weight.</h3>
+<h3>Program to calculate BMI according to gender, age, height, and weight.</h3>
 
 <h4>Details about the functions in the program:</h4>
 
@@ -11,4 +11,4 @@
 
 <h3>Screenshot</h3>
 
-![image](https://user-images.githubusercontent.com/76572034/138348638-c5e00010-bd17-4604-a55f-0d35622c6e69.png)
+![image](https://user-images.githubusercontent.com/76572034/138348993-c552485c-f9fb-4e3b-80a8-8b529cdae7d2.png)
